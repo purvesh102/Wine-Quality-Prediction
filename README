@@ -6,7 +6,6 @@ pandas
 numpy
 matplotlib
 seaborn
-nltk
 sklearn
 
 Algorithms:-
@@ -15,11 +14,8 @@ KNN
 SVC
 Decision Tree
 Random Forest
-Naive Bayes
-Ada Boosting
-Gradinent Boosting
-XGB Boosting
 
-Conclusion
-By observing the graph Low volatile acidity gives us high quality of wine.Random Forest shows 89% accuracy thus Random Forest fits the best for my dataset. 
-Best Accuracy: 89%
+
+Conclusion:-
+ By doing the analysis we came to know that high quality of wine required low volatile acidity, high citric acid and high alcohol contain and residual sugar range 
+ should be between 2.5 to 3. After creating some model Random Forest model shows 89% accuracy thus Random Forest fits the best for my dataset. 
